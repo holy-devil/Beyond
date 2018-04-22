@@ -52,6 +52,9 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 350px;
 
 }
+.project-file{
+  width: 100%;
+}
 #other-projects{
   background: url(../img/cover-projects.png) no-repeat;
   background-size: cover;
